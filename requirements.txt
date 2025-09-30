@@ -1,0 +1,9 @@
+pandas>=2.1
+pyarrow>=15
+tqdm>=4.66
+streamlit
+requests
+pandas
+pyarrow
+duckdb   # if you go this route
+pydantic
