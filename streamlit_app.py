@@ -1016,4 +1016,5 @@ with st.expander("ℹ️ How it works"):
 - **Etiquette**: Keep a real **mailto** — improves reliability and supports Crossref.
 """)
 
-st.markdown("<div class='small-muted'>Made with ❤️ for long crawls without the boredom.</div>", unsafe_allow_html=True)
+# st.markdown("<div class='small-muted'>Made with ❤️ for long crawls without the boredom.</div>", unsafe_allow_html=True)
+
